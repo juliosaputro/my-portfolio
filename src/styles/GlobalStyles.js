@@ -4,8 +4,8 @@ export const GlobalStyles = createGlobalStyle`
 
 :root{
        --black: #0f0e0e;
-       --burlywood:#f6c9a0;
-       --grey:#866c55;
+       --burlywood:#2c7da0;
+       --grey:#61a5c2;
        font-family: Anton;
        cursor:none;
 }
